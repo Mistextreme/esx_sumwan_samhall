@@ -22,11 +22,11 @@ This is a leisure script. You work as a cleaning company. You go around to diffe
 
 * Add this in your cfg:
 
-  start sumwan_loadingbar (remade from mythic_progressbar)
+  start sumwan_loadingbar
   
-  start sumwan_notify (remade from mythic_notify)
+  start sumwan_notify
   
-  start esx_sumwan_samhall (cooldown from loffe_carthief)
+  start esx_sumwan_samhall
   
 * Add the cooldowns.sql intro your database
 
