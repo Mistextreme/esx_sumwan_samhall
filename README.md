@@ -18,7 +18,7 @@ This is a leisure script. You work as a cleaning company. You go around to diffe
   
   start sumwan_notify (remade from mythic_notify)
   
-  start esx_sumwan_samhall
+  start esx_sumwan_samhall (cooldown from loffe_carthief)
   
 * Add the cooldowns.sql intro your database
 
