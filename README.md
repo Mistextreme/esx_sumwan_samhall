@@ -2,6 +2,8 @@
 
 This is a leisure script. You work as a cleaning company. You go around to different places and cleans which you are then paid for. This can be done every 4 hours.
 
+**OBS! If you find any bugs contact me on discord.**
+
 # Requirements
 
 * ESX
