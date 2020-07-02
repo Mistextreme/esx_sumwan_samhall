@@ -10,9 +10,9 @@
 
 * Add this in your cfg:
 
-  start sumwan_loadingbar
-  start sumwan_notify
-  start esx_sumwan_samhall
+  **start sumwan_loadingbar
+  **start sumwan_notify
+  **start esx_sumwan_samhall
   
 * Add the cooldowns.sql intro your database
 
