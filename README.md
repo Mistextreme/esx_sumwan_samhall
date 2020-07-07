@@ -24,7 +24,7 @@ This is a leisure script. You work as a cleaning company. You go around to diffe
 
   start sumwan_loadingbar
   
-  start sumwan_notify
+  start sumwan_notify (**obs! if u already have mythic_notify then dont start sumwan_notify!**)
   
   start esx_sumwan_samhall
   
